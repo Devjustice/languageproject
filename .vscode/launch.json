@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Q149_8",
+            "request": "launch",
+            "mainClass": "java_for_test.Q149_8",
+            "projectName": "languageproject_621bfb09"
+        },
+        {
+            "type": "java",
             "name": "Launch Q149_3",
             "request": "launch",
             "mainClass": "java_for_test.Q149_3",
