@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Q150_10",
+            "request": "launch",
+            "mainClass": "java_for_test.Q150_10",
+            "projectName": "languageproject_621bfb09"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q150_4",
+            "request": "launch",
+            "mainClass": "java_for_test.Q150_4",
+            "projectName": "languageproject_621bfb09"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q150_4",
+            "request": "launch",
+            "mainClass": "Q150_4",
+            "projectName": "languageproject_621bfb09"
+        },
+        {
+            "type": "java",
             "name": "Launch Q150_1",
             "request": "launch",
             "mainClass": "java_for_test.Q150_1",
